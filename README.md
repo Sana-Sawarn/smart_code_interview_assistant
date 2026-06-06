@@ -1,1 +1,0 @@
-# smart_code_interview_assistant
